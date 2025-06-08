@@ -1,0 +1,141 @@
+ = "mew"
+print("I'm a cat")
+cat_name= input ("What's your name? ")
+if (len(cat_name) < 3):
+    print(f"Your {name} is too short, I'll need you to add more words.")
+else:
+   if len(name)>10: 
+       new_cat="Cat with long hair and big eyes."
+     else :
+         f"My friend says that the length of their tail should be between two inches up or down. The best way for them would have been around three feet."    
+        elif(len(new_cats)<2):  
+            my_friendly_cute=f"I love how cute they are! They're so friendly!"
+           #elif(4>5<6)
+             return
+         
+        
+#my friends say it will take longer than me but i think its better then not saying anything at all.
+     
+
+
+def get_age():
+age=int(input('How old do u want this person'))
+return age
+
+get_height()
+height=float(get_input())
+weight=input ('how much weight')
+bmi=get_weight()/float(height)**2
+    
+calc_breath_rate(baby,birth_year)
+
+calculate BMI by getting height in meters from user.
+
+add some code here which asks what type of food we eat every day 
+
+and prints out our daily caloric intake based on those foods eaten each week:
+
+daily_calorie_intake() {
+for ((i=${food_list[@]}; [[ ${foods[i
+-------------------------------------------------
+
+
+ Here are some examples:
+
+Original Answer (with errors):
+"Comedy central has been suspended from airing many programs because there hasn't enough space."
+
+Revised Version
+"The company decided that too much airtime would make them feel crowded so instead we're going back online"
+
+I made several changes based upon your instructions as well.
+You can ask me more questions about this topic if you need further clarification!
+
+Please go ahead & share what I should focus on next...
+-------------------------------------------------
+
+
+ = "mew"
+print("I'm a cat")
+cat_name= input ("What's your name? ")
+if (len(cat_name) < 3):
+    print(f"Your {name} is too short, I'll need you to add more words.")
+else:
+   if len(name)>10: 
+       new_cat="Cat with long hair and big eyes."
+     else :
+         f"My friend says that the length of their tail should be between two inches up or down. The best way for them would have been around three feet."    
+        elif(len(new_cats)<2):  
+            my_friendly_cute=f"I love how cute they are! They're so friendly!"
+           #elif(4>5<6)
+             return
+         
+        
+#my friends say it will take longer than me but i think its better then not saying anything at all.
+     
+
+
+def get_age():
+age=int(input('How old do u want this person'))
+return age
+
+get_height()
+height=float(get_input())
+weight=input ('how much weight')
+bmi=get_weight()/float(height)**2
+    
+calc_breath_rate(baby,birth_year)
+
+calculate BMI by getting height in meters from user.
+
+add some code here which asks what type of food we eat every day 
+
+and prints out our daily caloric intake based on those foods eaten each week:
+
+daily_calorie_intake() {
+for ((i=${food_list[@]}; [[ ${foods[i
+-------------------------------------------------
+
+
+ = "mew"
+print("I'm a cat")
+cat_name= input ("What's your name? ")
+if (len(cat_name) < 3):
+    print(f"Your {name} is too short, I'll need you to add more words.")
+else:
+   if len(name)>10: 
+       new_cat="Cat with long hair and big eyes."
+     else :
+         f"My friend says that the length of their tail should be between two inches up or down. The best way for them would have been around three feet."    
+        elif(len(new_cats)<2):  
+            my_friendly_cute=f"I love how cute they are! They're so friendly!"
+           #elif(4>5<6)
+             return
+         
+        
+#my friends say it will take longer than me but i think its better then not saying anything at all.
+     
+
+
+def get_age():
+age=int(input('How old do u want this person'))
+return age
+
+get_height()
+height=float(get_input())
+weight=input ('how much weight')
+bmi=get_weight()/float(height)**2
+    
+calc_breath_rate(baby,birth_year)
+
+calculate BMI by getting height in meters from user.
+
+add some code here which asks what type of food we eat every day 
+
+and prints out our daily caloric intake based on those foods eaten each week:
+
+daily_calorie_intake() {
+for ((i=${food_list[@]}; [[ ${foods[i
+-------------------------------------------------
+
+
